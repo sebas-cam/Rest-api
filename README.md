@@ -5,8 +5,8 @@ Api creada con Python usando el framework Flask en un solo archivo.
 Contiene 4 rutas: 
     -/productos
     -/descuentos
-    -/productos/categorias/<orden>
-    -/productos/<name>
+    -/productos/categorias/"<orden>"
+    -/productos/"<name>"
   
   La ruta /productos muestra todos los productos con su respectivo nombre, precio y categoria.
   La ruta /descuentos muestra todos los productos que tienen descuento junto con su nombre, precio y categoria.
