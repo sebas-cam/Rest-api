@@ -2,7 +2,7 @@
 
 Api creada con Python usando el framework Flask en un solo archivo. 
 
-Contiene 4 rutas: 
+Contiene 4 rutas:   
     -/productos  
     -/descuentos  
     -/productos/categorias/"orden"    
